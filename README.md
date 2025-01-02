@@ -5,3 +5,5 @@
 ![](https://bit.ly/3OxQEbF)
 <br />
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+<br />
+https://api.githubtrends.io/user/svg/abewartech/repos?time_range=one_year&theme=ferns
