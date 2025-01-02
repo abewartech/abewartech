@@ -3,3 +3,5 @@
 <br />
 ![](https://komarev.com/ghpvc/?username=abewartech)
 ![](https://bit.ly/3OxQEbF)
+<br />
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
