@@ -48,14 +48,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abewartech&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Code.+Create.+Inspire." alt="Typing Animation" />
 </p>
