@@ -1,5 +1,19 @@
 <!-- GitAds-Verify: WN4K249A8TLITXAX4QC7GA17FPP3IJC8 -->
 
+# Rahmad Al Habib Khasary
+
+**Full Stack Developer** · Cibinong, Bogor, Indonesia
+
+I'm Rahmad Al Habib Khasary (abe) — a full stack developer with 10 years of experience building web and mobile applications, from enterprise systems to freelance client work.
+
+- 🔭 Currently **Full Stack Developer @ ALSOK Indonesia** — internal applications (attendance, carpooling, e-learning, facility management) serving ~30,000 employees
+- 🛠️ Core stack: **Laravel, React, React Native, Node.js, TypeScript, PHP, MySQL, PostgreSQL, MongoDB, Python**
+- 💼 **Open for freelance projects** — web development, mobile apps, REST APIs, dashboards
+- 🌐 Portfolio: [abewartech.github.io/portfoliobyastro](https://abewartech.github.io/portfoliobyastro/)
+- 💬 Connect: [LinkedIn](https://www.linkedin.com/in/rahmad-al-habib-khasary-4a7391125/)
+
+---
+
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=abewartech/abewartech@github)](https://gitads.dev/v1/ad-track?source=abewartech/abewartech@github)
 
@@ -51,3 +65,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Code.+Create.+Inspire." alt="Typing Animation" />
 </p>
+
